@@ -1,3 +1,9 @@
+Test Stripe card numbers 
+Card number: 4242424242424242,	
+CardType: Visa	
+CVC: Any 3 digits	
+Date:Any future date
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
