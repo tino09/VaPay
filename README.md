@@ -4,6 +4,10 @@ CardType: Visa
 CVC: Any 3 digits	
 Date:Any future date
 
+integrated using Stripe Api as the processor and ReactJs for the frontend
+
+Express js as the node framework used to define routes of the application based on HTTP methods and JSON data entries
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
